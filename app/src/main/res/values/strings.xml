@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WindowMagagerTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_guar_float_window">GuarFloatWindowActivity</string>
+    <string name="title_activity_system_float_avtivity">SystemFloatAvtivity</string>
+    <string name="title_activity_dialog_test">DialogTestActivity</string>
+    <string name="title_activity_qqrocket_demo">QQRocketDemo</string>
+</resources>
